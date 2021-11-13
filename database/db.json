@@ -1,0 +1,144 @@
+{
+  "dataUser": [
+    {
+      "id": 1,
+      "Nama": "Harum Bakti",
+      "NIP": "117459055",
+      "NoTelephone": "081272377675",
+      "Email": "hbakti@yahoo.com"
+    },
+    {
+      "id": 2,
+      "Nama": "Natalia Permata",
+      "NIP": 11785933,
+      "NoTelephone": "0855672653",
+      "Email": "maheswara.hilda@uwais.asia"
+    },
+    {
+      "id": 3,
+      "Nama": "Gatra Adriansyah",
+      "NIP": "118795923",
+      "NoTelephone": "08180833286",
+      "Email": "xyulianti@gmail.co.id"
+    },
+    {
+      "id": 4,
+      "Nama": "Najam Maryadi",
+      "NIP": "119459509",
+      "NoTelephone": "08589694372",
+      "Email": "jmaryadi@yandex.co.id"
+    },
+    {
+      "id": 5,
+      "Nama": "Raharja Hutagalung",
+      "NIP": "114069523",
+      "NoTelephone": "08324510840",
+      "Email": "raharjahuta@yahoo.co.id"
+    },
+    {
+      "id": 6,
+      "Nama": "Silvia Usamah",
+      "NIP": 11379001,
+      "NoTelephone": "08356939529",
+      "Email": "usamah.jailani@yahoo.com"
+    },
+    {
+      "id": 7,
+      "Nama": "Murti Sitompul",
+      "NIP": 11774001,
+      "NoTelephone": "0878179666",
+      "Email": "cengkir69@riyanti.co.id"
+    },
+    {
+      "id": 8,
+      "Nama": "Nurul Laksita",
+      "NIP": 11984201,
+      "NoTelephone": "0890013304",
+      "Email": "vharyanti@usada.name"
+    },
+    {
+      "id": 9,
+      "Nama": "Sarah Handayani",
+      "NIP": 113453901,
+      "NoTelephone": "0865953120",
+      "Email": "uusada@yahoo.co.id"
+    },
+    {
+      "id": 10,
+      "Nama": "Bagus Zulfikar",
+      "NIP": 23071992,
+      "NoTelephone": "081248271171",
+      "Email": "baguszul@gmail.com"
+    },
+    {
+      "id": 11,
+      "Nama": "Faza Anshari",
+      "NIP": 11820392,
+      "NoTelephone": "08177382937",
+      "Email": "fazfaz@gmail.com"
+    },
+    {
+      "id": 12,
+      "Nama": "Harris Suteja",
+      "NIP": 29238223,
+      "NoTelephone": "0876562532",
+      "Email": "sutejahar@hotmail.com"
+    },
+    {
+      "id": 13,
+      "Nama": "Handoko Tjung",
+      "NIP": 23454345,
+      "NoTelephone": "08786251523",
+      "Email": "hanhanhan@gmail.com"
+    },
+    {
+      "id": 14,
+      "Nama": "Rudi Marsudi",
+      "NIP": 83643723,
+      "NoTelephone": "08177343454",
+      "Email": "rudimarsudi@test.com"
+    },
+    {
+      "id": 15,
+      "Nama": "Budi Kristiawan",
+      "NIP": 112345764,
+      "NoTelephone": "0812343454",
+      "Email": "budkriswan@test.com"
+    },
+    {
+      "id": "16",
+      "Nama": "Alissa Angeline",
+      "NIP": 11266346,
+      "NoTelephone": "0867854362",
+      "Email": "alissa@gmail.com"
+    },
+    {
+      "id": "17",
+      "Nama": "Mega Masari",
+      "NIP": 116060598,
+      "NoTelephone": "087654263723",
+      "Email": "megamas@gmail.com"
+    },
+    {
+      "id": "18",
+      "Nama": "Utha Likumahuwa",
+      "NIP": 119283746,
+      "NoTelephone": "081237643476",
+      "Email": "uthalikuma@gmail.com"
+    },
+    {
+      "id": "19",
+      "Nama": "Ermy Kullit",
+      "NIP": 12933282,
+      "NoTelephone": "081278171826",
+      "Email": "ermyk@gmail.com"
+    },
+    {
+      "id": "20",
+      "Nama": "Santika Santi",
+      "NIP": "182976376",
+      "NoTelephone": "08177232787",
+      "Email": "santikasanti@gmail.com"
+    }
+  ]
+}
